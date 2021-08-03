@@ -8,4 +8,4 @@ fbx model included\
 
 # Licence:
   
-  You can use it for free in non-commercial projects
+  You can use it for free in any project.
